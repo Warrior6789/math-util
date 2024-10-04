@@ -29,7 +29,7 @@ public class MathUtilDDTTest {
             {2, 2},
             {3, 6},
             {4,24},
-            {5,120}
+            {5,720}
         };
     }
     // giả sử đã loop qua từng dòng của mảng, ta cần gán từng value của cột vào biến tương ứng 

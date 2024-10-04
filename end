@@ -1,0 +1,44 @@
+[33mcommit 783b65402ca41e553eac52f65b5a6a432826abac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 55b4ba7 5c55615
+Author: plong <philong68687879@gmail.com>
+Date:   Fri Oct 4 23:48:31 2024 +0700
+
+    Merge branch 'main' of https://github.com/Warrior6789/math-util
+
+[33mcommit 55b4ba7fee03ebaf7d7a0f95ee8fb1ab002f1bcb[m
+Author: plong <philong68687879@gmail.com>
+Date:   Fri Oct 4 23:46:42 2024 +0700
+
+    attach junit library
+
+[33mcommit 5c55615ef10549fceda6c626d7f86f58afec9230[m
+Author: Warrior6789 <philong68687879@gmail.com>
+Date:   Fri Oct 4 23:38:09 2024 +0700
+
+    Update ci-junit.yml
+
+[33mcommit 58f6633e92b6f1d3edd152fd6c96cdf5cb1afc9b[m
+Author: Warrior6789 <philong68687879@gmail.com>
+Date:   Fri Oct 4 23:35:13 2024 +0700
+
+    Create ci-junit.yml
+    
+    add workflow
+
+[33mcommit 79215d6d22bb9ab7824e3f00762bfa7ea40e44b7[m
+Author: plong <philong68687879@gmail.com>
+Date:   Fri Oct 4 22:55:37 2024 +0700
+
+    change ddt
+
+[33mcommit 364d36fbfbd51dbc0570db6392c82129c6a1ef00[m
+Author: plong <philong68687879@gmail.com>
+Date:   Thu Oct 3 17:23:39 2024 +0700
+
+     create README.md
+
+[33mcommit 72bc2a26a48674b75eecb545ac8585abceb9d5da[m
+Author: plong <philong68687879@gmail.com>
+Date:   Thu Oct 3 16:58:21 2024 +0700
+
+    first commit
